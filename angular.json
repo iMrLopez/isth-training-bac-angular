@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "proyectoConServicios"
+    }
+  },
+  "defaultProject": "proyectoConServicios",
+  "cli": {
+    "analytics": "62ffb33b-9d17-42f2-8051-8460ccee5dbe"
+  }
 }
