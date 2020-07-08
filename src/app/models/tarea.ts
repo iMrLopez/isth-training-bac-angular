@@ -5,5 +5,4 @@ export class Tarea {
  public fecha: Date;
  public usuario: string;
  public estado: boolean;
-
 }
